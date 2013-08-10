@@ -28,4 +28,10 @@
         <connection>scm:git:https://github.com/iamtakingiteasy/org.l33tlabs.twl.pngdecoder.git</connection>
         <developerConnection>scm:git:https://github.com/iamtakingiteasy/org.l33tlabs.twl.pngdecoder.git</developerConnection>
     </scm>
+    <developers>
+        <developer>
+            <id>matthias_mann</id>
+            <name>Matthias Mann</name>
+        </developer>
+    </developers>
 </project>
