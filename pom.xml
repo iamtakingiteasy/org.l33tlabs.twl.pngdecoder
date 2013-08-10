@@ -24,8 +24,8 @@
     </licenses>
     <scm>
         <url>https://github.com/iamtakingiteasy/org.l33tlabs.twl.pngdecoder.git</url>
-        <connection>scm:git:https://github.com/iamtakingiteasy/org.l33tlabs.twl.pngdecoder.git</connection>
-        <developerConnection>scm:git:https://github.com/iamtakingiteasy/org.l33tlabs.twl.pngdecoder.git</developerConnection>
+        <connection>scm:git:git@github.com/iamtakingiteasy/org.l33tlabs.twl.pngdecoder.git</connection>
+        <developerConnection>scm:git:git@github.com/iamtakingiteasy/org.l33tlabs.twl.pngdecoder.git</developerConnection>
     </scm>
     <developers>
         <developer>
